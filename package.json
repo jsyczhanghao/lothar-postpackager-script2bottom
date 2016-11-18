@@ -1,0 +1,19 @@
+{
+  "name": "lothar-postpackager-script2bottom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsyczhanghao/lothar-postpackager-script2bottom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsyczhanghao/lothar-postpackager-script2bottom/issues"
+  },
+  "homepage": "https://github.com/jsyczhanghao/lothar-postpackager-script2bottom#readme"
+}
