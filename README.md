@@ -9,6 +9,9 @@ lothar的postpackager阶段插件，将带有bottom属性的script标签移动�
 lothar init demo/common --module
 cd demo/common
 npm install lothar-postpackager-script2bottom
+
+#考虑多人项目
+npm install lothar-postpackager-script2bottom --save
 ```
 
 修改lothar项目的conf文件
